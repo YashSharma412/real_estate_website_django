@@ -1,0 +1,58 @@
+Model / DB Fields
+
+Table: 
+
+a.	LISTING
+b.	REALTER
+c.	CONTACT ( inquiries made )
+
+##  LISTING TABLE FIELDS
+
+a. id		:	INT
+b. realtor 	:	INT(foreign key[REALTER])
+c. title	:	STR
+d. address	:	STR
+e. city		:	STR
+f. state	: 	STR
+g. zipcode	:	STR
+h. description	:	TEXT
+i. price	:	INT
+j. bedrooms	:	INT
+k. bathrooms	:	INT
+l. garage	:	INT( default ==> 0 )
+m. list_date	:	DATE
+n. sqr_ft	:	INT
+o. lot_size	:	FLOAT
+p. is_published	:	BOOL( default ==> true )
+q. img_main	:	STR( http cloud address)
+r. img_1	:	STR
+s. img_2	:	STR
+t. img_3	:	STR
+u. img_4	:	STR
+v. img_5	:	STR
+w. img_6	:	STR
+
+
+##  REALTER TABLE FIELDS
+
+a. id		:	INT
+b. name		:	STR 
+c. photo	: 	STR
+d. description	: 	TEXT
+e. email	:	STR
+f. phone	:	STR
+g. is_mvp	:	BOOL( default ==> 0/false )
+h. hire_date	:	DATE
+
+
+##  CONTACT TABLE FIELDS
+
+a. id		:	INT
+b. user_id	:	INT
+c. listing	:	STR
+d. listing_id	:	INT
+e. name		:	STR	
+f. email	:	STR
+g. phone	: 	STR
+h. message	:	TEXT
+i. conatact_date:	DATE
