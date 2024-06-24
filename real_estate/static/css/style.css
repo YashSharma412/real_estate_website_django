@@ -97,6 +97,10 @@ img {
   position: relative;
 }
 
+.time_since{
+  text-wrap: nowrap;
+}
+
 @media (max-width: 991px) {
   #showcase {
     padding-top: 4rem;

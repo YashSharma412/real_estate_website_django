@@ -33,7 +33,7 @@ v. img_5	:	STR
 w. img_6	:	STR
 
 
-##  REALTER TABLE FIELDS
+##  REALTER TABLE FIELDS (Kyle Brown, Mike Hudson, Jenny Jhonson)
 
 a. id		:	INT
 b. name		:	STR 
@@ -56,3 +56,167 @@ f. email	:	STR
 g. phone	: 	STR
 h. message	:	TEXT
 i. conatact_date:	DATE
+
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, rerum? Atque
+voluptate ipsum at, in, repellendus impedit accusantium maxime corporis mollitia
+ea aspernatur exercitationem iste dignissimos quam commodi architecto velit
+harum et eos? Voluptatibus officia unde non ratione error tempore, reiciendis
+maxime doloribus dicta explicabo veniam blanditiis eum incidunt placeat est
+perspiciatis! Ad quos accusamus quaerat placeat, unde dolore hic nesciunt! Quae
+praesentium porro ipsam reprehenderit debitis esse saepe, minima voluptatem ipsa
+dolores assumenda enim illo rem commodi temporibus quo distinctio, eaque fuga.
+Nostrum doloribus rerum quibusdam consequuntur ea exercitationem architecto
+consequatur atque! Enim, voluptatum nobis corporis, deleniti, velit nulla
+laboriosam odit provident omnis pariatur ipsam maiores? Ut laboriosam iure,
+magni labore nisi numquam voluptates recusandae aperiam sit fuga deleniti et
+ipsa exercitationem aliquid qui cum quasi, voluptatem inventore beatae
+blanditiis eaque non tenetur facilis. Dicta corrupti sed pariatur assumenda
+ipsam voluptatibus accusamus at dolores vero suscipit rem, animi aut tempore
+sint eius repudiandae tempora mollitia illo deleniti esse aperiam possimus
+veniam voluptatum. Cupiditate, eum vitae recusandae mollitia deleniti voluptatem
+magni voluptatibus iste dolorum accusamus officia! Possimus, quibusdam iure
+consequatur repellendus inventore impedit voluptatibus aliquid tenetur,
+laudantium accusantium iusto nesciunt rem distinctio autem cupiditate totam quis
+libero ullam! Odit tempora laborum illum quibusdam fuga. Asperiores saepe maxime
+neque sit recusandae at aut in iste quam, accusamus ipsum ad qui suscipit rem
+delectus, beatae est voluptatem? Dolorum eligendi dolores sapiente doloribus
+nihil corporis. Quis at voluptatem, unde commodi nihil repellendus eligendi quia
+voluptate. Recusandae laboriosam molestias assumenda, suscipit eos architecto
+inventore ullam ratione autem numquam, ipsum in quod. Quae hic quis, quia earum
+corporis ullam incidunt velit praesentium officiis, quibusdam maxime accusantium
+in commodi eveniet aspernatur sunt fugit! Aliquam, numquam dolor beatae, et odio
+nulla alias praesentium similique, nam reiciendis molestiae commodi expedita!
+At, nulla dignissimos facilis, ex dolorem eligendi numquam, veritatis temporibus
+ipsum ea aperiam sapiente impedit et itaque commodi dolore ut obcaecati? Vel a
+maiores nulla, repellendus nam quasi, corrupti hic, libero ducimus fugit
+tempore. Labore dolorum dolores, soluta tempora accusamus commodi impedit
+voluptas expedita hic aliquam distinctio nisi temporibus, modi sequi neque vero
+quaerat sint rem enim velit, earum odit? Quia dolorem fugit delectus totam
+facilis illo et sed. Possimus culpa facere cum minus repudiandae quasi aperiam
+reiciendis odio deserunt obcaecati quis commodi cumque autem, ut laborum.
+Voluptatibus, a. Laborum, necessitatibus, labore architecto aliquid sit tempora
+et dolores, laboriosam repellat beatae rerum exercitationem minima hic similique
+maxime ipsum magni minus eaque animi perspiciatis facere repudiandae corporis
+cumque corrupti. Maiores nemo, nulla sint delectus accusamus, aperiam sapiente
+autem dolor possimus commodi tempora magnam similique vel consequatur minus
+deleniti ad eveniet corporis laboriosam amet cum. Fugiat, autem beatae? At
+perferendis neque, modi suscipit sit pariatur provident a accusamus eum
+molestias hic minima voluptas corrupti eveniet quod voluptatum rem officia
+dolores impedit consectetur accusantium tempora, soluta dolor vel? Maiores
+consequuntur similique, quidem magnam accusantium sint dolorem animi optio
+temporibus ratione quasi. Quae assumenda sunt ratione a tenetur eligendi
+temporibus ipsa. Porro suscipit eum incidunt. Voluptatibus facilis, eius tenetur
+id non nemo.
+
+[
+  {
+    "id": 1,
+    "address": "123 MG Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "postal_code": "560001",
+    "description": "Spacious 3-bedroom apartment located in the heart of the city. Modern amenities include a swimming pool, gym, and 24/7 security. Close to shopping centers and public transport.",
+    "price": 8500000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "garage": 1,
+    "square_feet": 2000,
+    "lot_size": 1.0,
+    "images": [
+      "photos/homes/2024/05/24/bengaluru-home-1.jpg",
+      "photos/homes/2024/05/24/bengaluru-home-inside-1.jpg",
+      "photos/homes/2024/05/24/bengaluru-home-inside-2.jpg",
+      "photos/homes/2024/05/24/bengaluru-home-inside-3.jpg"
+    ],
+    "available": true,
+    "listing_date": "2024-04-15",
+    "last_updated": "2024-05-24",
+    "views": 25
+  },
+  {
+    "id": 2,
+    "address": "456 Lodhi Road",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "postal_code": "110003",
+    "description": "Luxurious 4-bedroom villa in a serene neighborhood. Features include a private garden, spacious balconies, and a state-of-the-art kitchen. Ideal for families looking for a tranquil living environment.",
+    "price": 25000000,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "garage": 2,
+    "square_feet": 3500,
+    "lot_size": 2.5,
+    "images": [
+      "photos/homes/2024/05/24/delhi-home-1.jpg",
+      "photos/homes/2024/05/24/delhi-home-inside-1.jpg",
+      "photos/homes/2024/05/24/delhi-home-inside-2.jpg",
+      "photos/homes/2024/05/24/delhi-home-inside-3.jpg"
+    ],
+    "available": true,
+    "listing_date": "2023-11-10",
+    "last_updated": "2024-05-24",
+    "views": 42
+  },
+  {
+    "id": 3,
+    "address": "789 Marine Drive",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "postal_code": "400020",
+    "description": "Elegant 2-bedroom apartment with stunning sea views. Includes a modern kitchen, spacious living room, and access to a rooftop terrace. Located near prime dining and entertainment options.",
+    "price": 15000000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "garage": 1,
+    "square_feet": 1500,
+    "lot_size": 0.8,
+    "images": [
+      "photos/homes/2024/05/24/mumbai-home-1.jpg",
+      "photos/homes/2024/05/24/mumbai-home-inside-1.jpg",
+      "photos/homes/2024/05/24/mumbai-home-inside-2.jpg",
+      "photos/homes/2024/05/24/mumbai-home-inside-3.jpg"
+    ],
+    "available": true,
+    "listing_date": "2024-01-20",
+    "last_updated": "2024-05-24",
+    "views": 30
+  }
+]
+
+Realtor 1: Amit Sharma
+Photo: 
+Description: Amit has over a decade of experience in the real estate industry, specializing in luxury apartments and villas. His extensive knowledge and commitment to clients have earned him numerous accolades.
+Phone: +91 982 123 4567
+Email: amit@realestate.co
+Is Active: True
+Joined: 2015-04-10 11:15:30+05:30
+Realtor 2: Priya Singh
+Photo: 
+Description: Priya is known for her exceptional negotiation skills and a keen eye for prime properties. She specializes in commercial real estate and has a track record of successful transactions.
+Phone: +91 993 567 8901
+Email: priya@realestate.co
+Is Active: True
+Joined: 2017-09-15 10:30:45+05:30
+Realtor 3: Rahul Mehta
+Photo: 
+Description: With a background in architecture, Rahul brings a unique perspective to real estate. He specializes in residential properties and has helped numerous families find their dream homes.
+Phone: +91 988 654 3210
+Email: rahul@realestate.co
+Is Active: False
+Joined: 2019-11-20 14:22:50+05:30
+Realtor 4: Sneha Patel
+Photo: 
+Description: Sneha is a dedicated real estate agent with a focus on eco-friendly properties. Her passion for sustainable living makes her a sought-after agent in the green real estate market.
+Phone: +91 977 123 6543
+Email: sneha@realestate.co
+Is Active: True
+Joined: 2020-02-05 09:45:30+05:30
+Realtor 5: Arjun Kapoor
+Photo: 
+Description: Arjun has built a reputation for his expertise in the luxury real estate market. His strategic marketing and client-first approach have resulted in numerous high-profile sales.
+Phone: +91 976 345 6789
+Email: arjun@realestate.co
+Is Active: False
+Joined: 2018-07-25 16:17:35+05:30
+These entries provide a brief overview of each realtor, including their contact information, a description of their expertise, their activity status, and the date they joined.

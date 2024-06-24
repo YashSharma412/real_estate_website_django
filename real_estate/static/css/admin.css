@@ -1,0 +1,48 @@
+*{
+    --header-color : #10284E !important;
+}
+.site-logo {
+    width: 70px;
+    height: 40px;
+}
+
+#header {
+    padding: 10px;
+    height: 60px;
+    background-color: #10284E;
+    color: white;
+}
+
+#site-name {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#site-name a:link,
+#site-name a:visited {
+    color: white;
+}
+
+div.breadcrumbs {
+    background: #30caa0 !important;
+    color: #10284E;
+}
+
+.module h2,
+.module caption,
+.inline-group h2 {
+    background: #30caa0;
+    color: #10284E;
+    font-weight: bold;
+}
+
+.button,
+input[type=submit],
+input[type=button], 
+.submit-row input,
+a.button {
+    background: #10284E;
+    color: white;
+}
